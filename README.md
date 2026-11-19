@@ -1,40 +1,30 @@
-# 🌾 Indian Agriculture Sector Analysis – Power BI Dashboard
+﻿# Indian Agriculture Sector Analysis – Power BI Dashboard
 
-## 📌 Project Overview
+## Project Overview
 
-This project presents an interactive Power BI dashboard analyzing the Indian Agriculture Sector using agricultural data from 2005–2023.
+An interactive Power BI dashboard analyzing the Indian Agriculture Sector using agricultural data from 2005–2023.
 
-The dashboard provides insights into crop production trends, state-wise and district-wise performance, seasonal production, and agricultural growth across India.
+## Key Highlights
 
-## ✨ Key Highlights
+- 33 States and 646 Districts analyzed
+- 122 Crops and 6 Seasons covered
+- Production trends from 2005–2023
+- State-wise and district-wise analysis
+- Interactive maps and filters
+- Seasonal production comparison
 
-- 📍 33 States and 646 Districts analyzed
-- 🌾 122 Crops and 6 Seasons covered
-- 📊 Total production trends from 2005–2023
-- 🗺️ Interactive map showing crop distribution across India
-- 📈 State-wise and district-wise production analysis
-- 📅 Dynamic Year and Crop filters
-- 🌦️ Seasonal production comparison
+## Key Insights
 
-## 🧠 Key Insights
+- Kerala leads in total agricultural production.
+- District-level production analysis highlights regional differences.
+- Production fluctuates across different years.
+- Whole Year crops contribute a major share of production.
 
-### State-Level Production
-Kerala leads in total agricultural production, followed by Tamil Nadu and Andhra Pradesh.
+## Dashboard Preview
 
-### District-Level Analysis
-Kollam, Malappuram, and Thiruvananthapuram show significant contributions.
+![Agriculture Sector Analysis Dashboard](./Agriculture%20Sector%20Analysis%20Dashboard.png)
 
-### Crop-Year Trends
-Production fluctuates over time, with major peak periods around 2015–2018.
-
-### Seasonal Analysis
-Whole Year crops contribute more than 95% of total production, while seasonal crops contribute smaller shares.
-
-## 🖥️ Dashboard Preview
-
-![Agriculture Sector Analysis Dashboard](Agriculter-Sector-Analysis-main/Agriculture%20Sector%20Analysis%20Dashboard.png)
-
-## ⚙️ Technologies Used
+## Technologies Used
 
 - Microsoft Power BI Desktop
 - DAX
@@ -42,34 +32,30 @@ Whole Year crops contribute more than 95% of total production, while seasonal cr
 - Microsoft Excel
 - Data Visualization
 
-## 📂 Project Files
+## Project Files
 
-- **Power BI Dashboard:** Interactive `.pbix` file
-- **Dataset:** Excel dataset
-- **Dashboard Preview:** PNG image
+- Agriculture Dataset.csv.xlsx
+- agriculture sector analysis project.pbix
+- Agriculture Sector Analysis Dashboard.png
+- README.md
 
-## 🚀 How to Run
+## How to Run
 
-1. Download the Power BI `.pbix` file.
+1. Download the PBIX file.
 2. Open it using Power BI Desktop.
-3. Explore interactive charts, maps, and slicers.
-4. Analyze agricultural trends across different states, crops, and years.
+3. Explore charts, maps and filters.
 
-## 🔮 Future Enhancements
+## Project Credits
 
-- Integration of rainfall and climate datasets.
-- Predictive modeling for crop yield.
-- More detailed district-level analysis.
-- Dashboard automation using APIs.
+**Original Project Creator:** Rajyavardhan Singh
 
-## 👨‍💻 Project Creator
+**Project Contributor:** Vikash Prajapat
 
-**Rajyavardhan Singh**
+## Future Enhancements
 
-## 🤝 Contributions
-
-Suggestions and contributions are welcome. Feel free to fork this repository and submit pull requests.
+- Rainfall and climate data integration
+- Predictive crop yield analysis
+- More detailed district-level analysis
 
 ---
-
-⭐ If you find this project useful, don't forget to star the repository!
+If you find this project useful, don't forget to star the repository!
